@@ -1,52 +1,29 @@
-# LaunchForge AI
+Phase 1
+✅ Repository setup
 
-## Tagline
+Phase 2
+⬜ Next.js + Tailwind setup
 
-Your AI Co-Founder
+Phase 3
+⬜ Landing page
 
-## Mission
+Phase 4
+⬜ Authentication
 
-LaunchForge AI helps anyone turn a simple business idea into a launch-ready startup.
+Phase 5
+⬜ Dashboard
 
-Instead of spending weeks researching, planning, and writing documents, users describe their idea and AI generates a complete startup blueprint.
+Phase 6
+⬜ AI Agent System
 
-Example:
+Phase 7
+⬜ Startup Generation Workflow
 
-"I want to start an online bakery."
+Phase 8
+⬜ GitHub Integration
 
-LaunchForge AI generates:
+Phase 9
+⬜ Deployment
 
-- Business Plan
-- Brand Identity
-- Target Audience
-- Website Copy
-- Marketing Strategy
-- Launch Checklist
-
----
-
-## Tech Stack
-
-Frontend
-- Next.js 15
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-
-Backend
-- Next.js API
-
-AI
-- GPT-5.6
-
-Database
-- Supabase
-
-Deployment
-- Vercel
-
----
-
-## Goal
-
-Build an AI product that feels like hiring a startup consultant.
+Phase 10
+⬜ Polish + Demo
